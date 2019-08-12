@@ -31,6 +31,6 @@ jason = {
     languages: ["C++", "Python"]
 }
 
-canidates = []
-canidates << jane << sara << jason
+candidates = []
+candidates << jane << sara << jason
 
